@@ -3,7 +3,7 @@ This is a CLI App performing tasks- Creation of Account, Deposit of Amount in cr
 
 First, User have to give a name for Creation of Account as shown in below Screenshot:
 <img width="500px" height="500px" src="https://drive.google.com/file/d/1s0oKvON4zCRDaEzO1s_wj_eKnAwvW5oX/view?usp=share_link">
-https://drive.google.com/file/d/1s0oKvON4zCRDaEzO1s_wj_eKnAwvW5oX/view?usp=share_link
+<img src="https://drive.google.com/file/d/1s0oKvON4zCRDaEzO1s_wj_eKnAwvW5oX/view?usp=share_link">
 
 Then, User will be able to deposit some amount in the created account as shown below:
 <img src="C:\Users\Harsh\OneDrive\Desktop\JavaProgram\JavaProgram\ss\2.png"> 
