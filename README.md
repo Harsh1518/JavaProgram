@@ -2,7 +2,7 @@
 This is a CLI App performing tasks- Creation of Account, Deposit of Amount in created Account, Withdrwaing of Amount from created Account and showing Final Balance of created Accounts. 
 
 First, User have to give a name for Creation of Account as shown in below Screenshot:
-<img src="ss\1.png">
+<img width="500" src="ss\1.png">
 
 Then, User will be able to deposit some amount in the created account as shown below:
 <img src="C:\Users\Harsh\OneDrive\Desktop\JavaProgram\JavaProgram\ss\2.png"> 
